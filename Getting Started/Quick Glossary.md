@@ -16,3 +16,14 @@ The following section contains common Unity terms on the left and their Unreal E
 || Skinned Mesh | Skeletal Mesh |
 | Materials | Shader | Material, Material Editor |
 || Material | Material Instance |
+| Effects | Particle Effect | Effect, Particle, Niagara |
+| Game UI | UI | UMG (Unreal Motion Graphics) |
+| Animation | Animation | Skeletal Mesh Animation System |
+|| Mecanim | Animation Blueprint |
+|| Sequences | Sequencer |
+| 2D | Sprite Editor | Paper2D |
+| Programming | C# | C++ |
+|| Script, Bolt | Blueprint |
+| Physics | Raycast | Line Trace, Shape Trace |
+|| Rigidbody | Collision, Physics |
+| Runtime Platforms | iOS Player, Web Player | Platforms |
