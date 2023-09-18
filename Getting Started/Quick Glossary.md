@@ -5,7 +5,7 @@ The following section contains common Unity terms on the left and their Unreal E
 
 | Category | Unity  | Unreal Engine |
 | ------------- | ------------- | ------------- |
-| **Gameplay Types** | Component | Component |
+| **Gameplay Types** | Component | [Component](https://docs.unrealengine.com/5.3/en-US/components-window-in-unreal-engine/) |
 || GameObject | Actor |
 || Prefab | Blueprint Class |
 | Editor UI | Hierarchy Panel | World Outliner |
