@@ -6,7 +6,7 @@ The following section contains common Unity terms on the left and their Unreal E
 | Category | Unity  | Unreal Engine |
 | ------------- | ------------- | ------------- |
 | test1 | test | test |
-| test1 | test | test |
+| test | test |
 | test1 | test | test |
 | test1 | test | test |
 | test1 | test | test |
